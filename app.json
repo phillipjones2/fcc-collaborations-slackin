@@ -6,11 +6,11 @@
   "keywords": ["node", "slack"],
   "env": {
     "SLACK_SUBDOMAIN": {
-      "description": "Your Slack's subdomain (**this**.slack.com)",
+      "description": "Your Slack's subdomain (fcc-collaborations.slack.com)",
       "required": true
     },
     "SLACK_API_TOKEN": {
-      "description": "A Slack API token (find it on https://api.slack.com/web)",
+      "description": "xoxp-52239558720-52235971606-56714271856-49127b08e4",
       "required": true
     },
     "SLACK_COC": {
